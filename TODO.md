@@ -11,6 +11,9 @@ ideas here if you wish, but I would prefer people to be somewhat specific.
   * Possibly an electron app that works off of this server but is adapted to be tied to one journal.
   * Login system that uses a password (and is secure!).
   * Allow turning a planner page into a display page and not showing the ID of the planner.
+  * Add password system, better logins
+  * Add https
+  
 
 
 You may contribute or implement these ideas in a pull request if you would like.
